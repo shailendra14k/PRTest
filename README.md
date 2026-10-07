@@ -9,4 +9,5 @@ Pranab | plohia@redhat.com | 10/02/2020 | My 1st PR
 Aishwarya | aish@gmail.com | 17/02/2020 | My First PR
 Abhishek Sah | asah@gmail.com | 18/02/2020 | YAY!!!
 Arshad | aakhtar@redhat.com | 18/02/2020
+JinSuperOfficial | jixnu114514@gmail.com | 07/10/2026 | My 1st PR!
 
